@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NoahNymous
+- 👀 I’m interested in programming.
+- 🌱 I’m currently learning Python.
+- 💞️ I’m looking to collaborate on Python & C#.
+- 📫 How to reach me noahnymous0@gmail.com (I dont read my inbox very often so be sure to spam :D ) 
